@@ -2,8 +2,8 @@
 
 ### How to use?   
 
-➤ Download Source Code
-➤ Open Project > Run `npm install`
+- Download Source Code
+- Open Project > Run `npm install`
 - Run Script using command `node index.js`
 - Result will show on console log and saved into file kursmatauang.txt
 - You can integrate this data into Your Website, WhatsApp Bot, and others
